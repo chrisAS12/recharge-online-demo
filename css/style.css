@@ -13,12 +13,12 @@ html {
 
 #chooseMood {
     position: absolute;
-    background-color: rgb(166, 245, 212);
+    background-color: #acdffb;
 }
 
 .col-6 {
     margin-left: 2rem;
-    border: solid 5px black;
+    border: solid 5px rgba(0, 0, 0, 0.082);
 }
 
 .buttonInpt {
