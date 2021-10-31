@@ -2,3 +2,4 @@ windows98 : https://wallpaper.dog/windows-98-default-wallpapers
 JpAq7 : https://superuser.com/questions/1524359/how-can-i-duplicate-and-double-view-my-laptop-desktop-windows-10
 arrow: https://www.nicepng.com/png/detail/415-4153562_up-arrow-up-arrow-black.png
 
+windows-10: https://imag.malavida.com/mvimgbig/download-fs/windows-10-14709-2.jpg
