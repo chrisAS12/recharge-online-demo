@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+/*
+.c-button {
+    min-width: 100px;
+    font-family: inherit;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.c-button:hover {
+    background: #1d49aa;
+}
+
+.c-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+}
+*/
+
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+html {
+    background: url(../resources/images/JpAq7.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#chooseMood {
+    position: absolute;
+    background-color: rgb(166, 245, 212);
+}
+
+.col-6 {
+    margin-left: 2rem;
+    border: solid 5px black;
+}
+
+.buttonInpt {
+    background-image: url('../resources/images/415-4153562_up-arrow-up-arrow-black.png');
+    display: none;
+}
+
+input[type=submit] {
+    height: 80px;
+    width: 200px;
+    font-size: 2rem;
+}
+
+label {
+    padding: 1rem;
+    /*
+    border: solid 2px black;
+    */
+}
+
+#emoji-reason {
+    width: 500px;
+    height: 80px;
+}
+
+#submitMoodReasonRow {
+    padding-left: 40px;
+}
+
+#emojiRow {
+    margin-top: 2rem;
+    margin-left: 7rem;
+}
